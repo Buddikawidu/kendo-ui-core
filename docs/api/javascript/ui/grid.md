@@ -34,6 +34,7 @@ Can be set to a JavaScript object which represents the allowCopy configuration.
             { productName: "Ham", category: "Food" },
             { productName: "Bread", category: "Food" }
         ]
+	
     });
     </script>
 
